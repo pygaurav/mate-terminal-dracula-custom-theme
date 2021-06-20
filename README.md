@@ -1,0 +1,1 @@
+# mate-terminal-dracula-custom-theme
